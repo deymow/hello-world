@@ -1,2 +1,2 @@
 # hello-world
-Hello World project is a time-honored tradition in computer programming
+ I am the newest dude on block. I love HTML and CSS. they are just to easy to understand
